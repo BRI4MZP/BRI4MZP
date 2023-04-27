@@ -13,7 +13,7 @@
 - 🌱 Currently working in Python, C, C# and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
 - 🎓 Certified Developer Freelancer
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/briveiro?1337Badge=off&UM6P=off" alt="briveiro 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/briveiro?1337Badge=off&UM6P=on" alt="briveiro 42 stats" /></a>
 </p>
 <br>
 
