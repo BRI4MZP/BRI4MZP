@@ -1,6 +1,6 @@
 <p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Hello all" /></p>
 
-### I'm Brian Riveiro as BRI4MZP 👋
+### I'm Brian Riveiro del rio as BRI4MZP 👋
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,bash,vim,vscode,stackoverflow,html,css,github,git,js,wordpress,visualstudio,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,bash,vim,vscode,git,stackoverflow,html,css,github,git,js,wordpress,visualstudio,django)](https://skillicons.dev)
 
 
 > :desktop_computer:  Languages - C | Python | C# | Bash | HTML | CSS | MYSQL
