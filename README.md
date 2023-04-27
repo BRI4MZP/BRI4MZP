@@ -43,7 +43,7 @@
 
 <br>
 
-## ✨ <a href="https://github.com/stars/Falitomal/lists/proyects-42"> :four::two: <code> Proyects 42 School</code></a>
+## ✨ <a href="https://github.com/BRI4MZP?tab=repositories"> :four::two: <code> Proyects </code></a>
 
 <br>
 
