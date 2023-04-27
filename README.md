@@ -19,25 +19,25 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,cpp,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,angular,cs,cpp,github)](https://skillicons.dev)
 
 
 > :desktop_computer:  Languages - Python | Flutter | Express | Lambda
 
-> :fire: Database - Firebase
+> :fire: Database - SQL
 
 <br>
 
 ## 🧑‍💻 My Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,net,md,bash,vim,vscode,stackoverflow,html,css,github,git,java,wordpress,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,bash,vim,vscode,stackoverflow,html,css,github,git,js,wordpress,visualstudio,django)](https://skillicons.dev)
 
 
-> :desktop_computer:  Languages - C | .NET | Java | Bash | HTML | CSS | MYSQL
+> :desktop_computer:  Languages - C | Python | C# | Bash | HTML | CSS | MYSQL
 
 > :hammer_and_wrench:  Tools -  Git | GitHub | Stack Overflow
 
-> :framed_picture:  Frameworks -  WordPress
+> :framed_picture:  Frameworks -  WordPress | Django
 
 > :atom:  IDEs -  Visual Studio | Vim | Visual Studio Code
 
@@ -48,7 +48,7 @@
 <br>
 
 
-## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-ledesma-rubio/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/rafael-ledesma-rubio/)
+## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://es.linkedin.com/in/brian-riveiro-del-rio-218b441a0) Connect With Me On [LinkedIn](https://es.linkedin.com/in/brian-riveiro-del-rio-218b441a0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRI4MZP&layout=compact&theme=dark&hide_border=true)
 
