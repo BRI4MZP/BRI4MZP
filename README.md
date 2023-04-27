@@ -19,7 +19,7 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,C,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cs,cpp,github)](https://skillicons.dev)
 
 
 > :desktop_computer:  Languages - Python | Flutter | Express | Lambda
