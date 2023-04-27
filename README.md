@@ -13,7 +13,7 @@
 - 🌱 Currently working in Python, Flutter, AWS and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
 - 🎓 Certified AWS Architect, Higher Training in Computer Systems Administration and Developer Freelancer
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jledesma?1337Badge=off&UM6P=off" alt="jledesma's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/jledesma?1337Badge=off&UM6P=off" alt="briveiro 42 stats" /></a>
 </p>
 <br>
 
