@@ -19,10 +19,10 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,angular,cs,cpp,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,angular,cs,cpp)](https://skillicons.dev)
 
 
-> :desktop_computer:  Languages - Python | Flutter | Express | Lambda
+> :desktop_computer:  Languages - Python | C# | CPP
 
 > :fire: Database - SQL
 
