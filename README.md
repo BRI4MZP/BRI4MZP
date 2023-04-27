@@ -9,9 +9,9 @@
 ---
 
 - 🔭 I’m currently studying at Course Cisco CiberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 👀 I’m interested in Python, CiberSecurity and IA  
-- 🌱 Currently working in Python, Flutter, AWS and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
-- 🎓 Certified AWS Architect, Higher Training in Computer Systems Administration and Developer Freelancer
+- 👀 I’m interested in Python, CiberSecurity, Testing and IA
+- 🌱 Currently working in Python, C, C# and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
+- 🎓 Certified Developer Freelancer
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/briveiro?1337Badge=off&UM6P=off" alt="briveiro 42 stats" /></a>
 </p>
@@ -19,7 +19,7 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,flutter,express,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,C,java)](https://skillicons.dev)
 
 
 > :desktop_computer:  Languages - Python | Flutter | Express | Lambda
@@ -50,6 +50,6 @@
 
 ## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-ledesma-rubio/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/rafael-ledesma-rubio/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falitomal&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRI4MZP&layout=compact&theme=dark&hide_border=true)
 
 <br>
