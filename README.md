@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,bash,vim,vscode,git,sql,mysql,stackoverflow,html,css,github,git,js,wordpress,visualstudio,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,bash,vim,vscode,git,sqlite,mysql,stackoverflow,html,css,github,git,js,wordpress,visualstudio,django)](https://skillicons.dev)
 
 
 > :desktop_computer:  Languages - C | Python | C# | Bash | HTML | CSS | MYSQL
