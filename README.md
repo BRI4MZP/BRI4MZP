@@ -25,7 +25,8 @@
 > :desktop_computer:  Languages - Python | C# | CPP
 
 > :fire: Database - SQL
-
+  
+> :framed_picture:  Frameworks -  Angular
 <br>
 
 ## 🧑‍💻 My Current Technical Skills
