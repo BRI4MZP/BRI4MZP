@@ -12,9 +12,6 @@
 - 👀 I’m interested in Python, CiberSecurity, Testing and IA
 - 🌱 Currently working in Python, C, C# and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
 - 🎓 Certified Developer Freelancer
-<p align="center">
-[![<briveiro>'s 42 stats](https://badge.mediaplus.ma/darkblue/<briveiro>)](https://github.com/oakoudad/badge42)
-</p>
 <br>
 
 ## 💻 Skills I'm Currently Acquiring
