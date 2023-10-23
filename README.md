@@ -4,7 +4,7 @@
 
 ---
 
-#### Currently studying to become a Tester & CiberSecurity Developer 💻
+#### Currently studying to become a Tester & Qa automator 💻
 
 ---
 
