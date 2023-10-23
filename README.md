@@ -4,7 +4,7 @@
 
 ---
 
-#### Currently studying to become a Qa automator 💻
+#### Currently studying to become a Qa automator & Tester 💻
 
 ---
 
