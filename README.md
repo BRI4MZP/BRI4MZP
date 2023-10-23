@@ -8,9 +8,9 @@
 
 ---
 
-- 🔭 I’m currently studying at Course Cisco CiberSecurity and Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 👀 I’m interested in Python, CiberSecurity, Testing and IA
-- 🌱 Currently working in Python, C, C# and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
+- 🔭 I’m currently studying C course in  **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
+- 👀 I’m interested in qa automator with python and selenium or bs4
+- 🌱 Currently working in Python, C, C++ and I help as a volunteer representative "Sensei" in 42 malaga Telefonica.
 - 🎓 Certified Developer Freelancer
 <br>
 
